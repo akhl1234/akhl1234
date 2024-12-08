@@ -38,15 +38,15 @@ A web app for tracking coding performance, built with **HTML**, **CSS**, and **J
 ### [Portfolio](https://github.com/akhl1234/Portfolio)  
 My personal portfolio showcasing my projects and achievements.  
 - **Built With**: HTML, CSS, JavaScript, and Figma for design  
-- **Live Demo**: [Portfolio Website](#replace-with-live-link)
+- **Live Demo**: [Portfolio Website](https://akhl1234.github.io/Akhlaque-Ansari/)
 
 ---
 
 ## 💡 Skills & Tools
 
-- **Programming Languages**: C++, JavaScript, HTML, CSS
-- **Frameworks**: Bootstrap, Next.js (in progress)
-- **Tools**: GitHub, VS Code, Vercel, Figma
+- **Programming Languages**: C++, JavaScript, Python
+- **Frameworks**: Bootstrap, React, Next.js (in progress)
+- **Tools**: GitHub, VS Code, Vercel, Figma, Gemini, Chatgpt
 
 ---
 
